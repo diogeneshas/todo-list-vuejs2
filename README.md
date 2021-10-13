@@ -1,4 +1,8 @@
-# todo
+# Todo List
+
+![Home Screen](https://github.com/diogeneshas/todo-list-vuejs2/blob/12b9b9055c5b8eb54c6010a406e15b3ea40dd16f/public/1todolist.png)
+
+![Home Screen](https://github.com/diogeneshas/todo-list-vuejs2/blob/12b9b9055c5b8eb54c6010a406e15b3ea40dd16f/public/2totolist.png)
 
 ## Project setup
 ```
